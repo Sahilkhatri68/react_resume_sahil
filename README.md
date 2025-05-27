@@ -7,7 +7,11 @@ This is a personal resume website built using **React.js** and styled with **Tai
 🌐 Vercel Link: [https://react-resume-sahil.vercel.app/](https://react-resume-sahil.vercel.app/)  
 🔗 GitHub Repo: [https://github.com/Sahilkhatri68/react_resume_sahil](https://github.com/Sahilkhatri68/react_resume_sahil)
 
----
+## 🔗 Screenshot
+
+## ![alt text](ss12.JPG)
+
+![alt text](ss123.JPG)
 
 ## ✅ Features Implemented
 
