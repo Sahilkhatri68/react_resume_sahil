@@ -117,8 +117,9 @@ function App() {
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16 py-8 scroll-smooth">
-        <Header />
-        <About />
+        {/* Props passed here */}
+        <Header darkMode={darkMode} toggleTheme={toggleTheme} />
+        <About title="About me" />
         <Skills />
         <Projects />
         <Experience />
